@@ -11,16 +11,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
   m_Name: ModConfig
   m_EditorClassIdentifier: 
-  id: template
-  title: Template
-  author: 
+  id: Indentation
+  title: Indentation
+  author: me
   description: 'Spin the Black Circle!
 
 
     Determine which spot to press based off the indented pattern shown on the module.
 
 
-    Manual can be found at ktane.timwi.de
+    Manual can be found at ktane.timwi.de or in the manuals folder of your game.
 
 
     If there are any bugs, contact Fartlicker777#9169 on Discord.'
